@@ -1,0 +1,28 @@
+C:\Users\Dell\source\repos\SifreUretimi\bin\Debug\netcoreapp3.1\SifreUretimi.exe
+C:\Users\Dell\source\repos\SifreUretimi\bin\Debug\netcoreapp3.1\SifreUretimi.deps.json
+C:\Users\Dell\source\repos\SifreUretimi\bin\Debug\netcoreapp3.1\SifreUretimi.runtimeconfig.json
+C:\Users\Dell\source\repos\SifreUretimi\bin\Debug\netcoreapp3.1\SifreUretimi.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\SifreUretimi\bin\Debug\netcoreapp3.1\SifreUretimi.dll
+C:\Users\Dell\source\repos\SifreUretimi\bin\Debug\netcoreapp3.1\SifreUretimi.pdb
+C:\Users\Dell\source\repos\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.AssemblyInfo.cs
+C:\Users\Dell\source\repos\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.dll
+C:\Users\Dell\source\repos\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.pdb
+C:\Users\Dell\source\repos\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.genruntimeconfig.cache
+C:\Users\Dell\source\repos\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.csproj.AssemblyReference.cache
+C:\C# çalışmalar\SifreUretimi\bin\Debug\netcoreapp3.1\SifreUretimi.exe
+C:\C# çalışmalar\SifreUretimi\bin\Debug\netcoreapp3.1\SifreUretimi.deps.json
+C:\C# çalışmalar\SifreUretimi\bin\Debug\netcoreapp3.1\SifreUretimi.runtimeconfig.json
+C:\C# çalışmalar\SifreUretimi\bin\Debug\netcoreapp3.1\SifreUretimi.runtimeconfig.dev.json
+C:\C# çalışmalar\SifreUretimi\bin\Debug\netcoreapp3.1\SifreUretimi.dll
+C:\C# çalışmalar\SifreUretimi\bin\Debug\netcoreapp3.1\SifreUretimi.pdb
+C:\C# çalışmalar\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.csproj.AssemblyReference.cache
+C:\C# çalışmalar\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# çalışmalar\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.AssemblyInfoInputs.cache
+C:\C# çalışmalar\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.AssemblyInfo.cs
+C:\C# çalışmalar\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.csproj.CoreCompileInputs.cache
+C:\C# çalışmalar\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.dll
+C:\C# çalışmalar\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.pdb
+C:\C# çalışmalar\SifreUretimi\obj\Debug\netcoreapp3.1\SifreUretimi.genruntimeconfig.cache
